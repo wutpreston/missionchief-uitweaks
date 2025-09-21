@@ -1,4 +1,6 @@
-.test {
-    align-self: start;
-    text-emphasis: none;
+.client-id::after {
+  content: " | With UI Tweaks";
+  color: #e74c3c;
+  font-weight: bold;
+  margin-left: 6px; 
 }
