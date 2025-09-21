@@ -28,3 +28,7 @@ div.panel-heading {
     border-width: 3px;
     background-color: transparent !important;
 }
+
+.overview_outer {
+    background-color: transparent;
+}
