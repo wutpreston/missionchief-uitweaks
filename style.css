@@ -5,7 +5,11 @@
     margin-left: 6px; 
 }
 
-
 .mk-map-view * {
     border-radius: 20px;
+}
+
+.panel-heading {
+    background: #36393e;
+    color: #ffffff;
 }
