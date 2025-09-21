@@ -1,6 +1,11 @@
 .client-id::after {
-  content: "| UI-Tweaks by Preston";
-  color: #e74c3c;
-  font-weight: bold;
-  margin-left: 6px; 
+    content: "| UI-Tweaks by Preston";
+    color: #e74c3c;
+    font-weight: bold;
+    margin-left: 6px; 
+}
+
+
+.mk-map-view * {
+    border-radius: 20px;
 }
