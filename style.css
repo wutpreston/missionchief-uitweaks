@@ -26,5 +26,5 @@ div.panel-heading {
 .alert {
     border-radius: 10px;
     border-width: 3px;
-    background-color: transparent;
+    background-color: transparent !important;
 }
