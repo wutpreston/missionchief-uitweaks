@@ -29,6 +29,6 @@ div.panel-heading {
     background-color: transparent !important;
 }
 
-#missions_outer, #buildings_outer, #chat_outer, #radio_outer {
-    background-color: transparent;
+.row[id="row-main-template"] * {
+    background: transparent;
 }
