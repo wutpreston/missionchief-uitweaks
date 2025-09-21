@@ -23,4 +23,8 @@ div.panel-heading {
     border-radius: 15px;
 }
 
-
+.alert {
+    border-radius: 10px;
+    border-width: 3px;
+    background-color: transparent;
+}
