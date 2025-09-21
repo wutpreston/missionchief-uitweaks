@@ -5,6 +5,10 @@
     margin-left: 6px; 
 }
 
+body.policechief {
+    background: #1e2124
+}
+
 .mk-map-view * {
     border-radius: 20px;
 }
