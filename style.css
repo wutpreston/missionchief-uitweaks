@@ -13,7 +13,7 @@ body.policechief {
     border-radius: 20px;
 }
 
-.panel-heading {
+div.panel-heading {
     background: #36393e;
     color: #ffffff;
 }
