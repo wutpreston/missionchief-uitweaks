@@ -44,3 +44,6 @@ body .panel-default {
     display: none;
 }
 
+.input-group-addon[for="alliance_chat_message"] {
+    display: none;
+}
