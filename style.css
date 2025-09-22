@@ -57,10 +57,10 @@ body .panel-default {
     border-radius: 10px;
 }
 
-.panel .panel-default {
+.panel.panel-default {
     border-radius: 20px;
 }
 
-.panel-heading .big_map_window_head {
+.panel-heading.big_map_window_head {
     border-radius: 10px;
 }
