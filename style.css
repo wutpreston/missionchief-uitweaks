@@ -35,3 +35,7 @@ body #chat_outer,
 body #radio_outer {
     background-color: transparent !important;
 }
+
+.navbar-brand {
+    display: none;
+}
