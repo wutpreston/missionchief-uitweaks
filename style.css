@@ -47,3 +47,12 @@ body .panel-default {
 .input-group-addon[for="alliance_chat_message"] {
     display: none;
 }
+
+.input-group .alliance_chat_message {
+    width: 100%;
+}
+
+.form-control[id="alliance_chat_message"] {
+    width: 100%;
+    border-radius: 10px;
+}
