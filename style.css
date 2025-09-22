@@ -64,3 +64,7 @@ body .panel-default {
 .panel-heading.big_map_window_head {
     border-radius: 10px;
 }
+
+.panel-body {
+    border-radius: 20px;
+}
