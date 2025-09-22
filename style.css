@@ -36,6 +36,10 @@ body #radio_outer {
     background-color: transparent !important;
 }
 
+body .panel-default {
+    border-radius: 20px;
+}
+
 .navbar-brand {
     display: none;
 }
