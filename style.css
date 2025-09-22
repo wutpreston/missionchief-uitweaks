@@ -48,11 +48,11 @@ body .panel-default {
     display: none;
 }
 
-.input-group .alliance_chat_message {
+.alliance_chat_message {
     width: 100%;
 }
 
-.form-control[id="alliance_chat_message"] {
+#alliance_chat_message {
     width: 100%;
     border-radius: 10px;
 }
